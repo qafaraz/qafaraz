@@ -15,8 +15,16 @@
 
 <!-- Development Environment Tools -->
 ## Development Environment Tools
-![My Skills](https://skillicons.dev/icons?i=vscode,github)
+![My Skills](https://skillicons.dev/icons?i=vscode,github,discord)
 
 <!-- Design Tools -->
 ## Design Tools
-![My Skills](https://skillicons.dev/icons?i=figma)
+![My Skills](https://skillicons.dev/icons?i=figma,ps)
+
+<div align=center>
+  
+  | ![](https://komarev.com/ghpvc/?username=qafarazv&color=blue) |
+ 
+  *Started Counting On 04/10/2023
+  
+</div> 
