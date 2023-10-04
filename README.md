@@ -8,7 +8,7 @@
 <!-- Front-End Development Toolls -->
 
 ## Front-End Development Toolls
-![My Skills](https://skillicons.dev/icons?i=html,css,sass)\
+![My Skills](https://skillicons.dev/icons?i=html,css,sass)
 
 <!--  Backend-End Development Toolls -->
 ## Backend-End Development Toolls
