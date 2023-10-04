@@ -20,11 +20,3 @@
 <!-- Design Tools -->
 ## Design Tools
 ![My Skills](https://skillicons.dev/icons?i=figma,ps)
-
-<div align=center>
-  
-  ![](https://komarev.com/ghpvc/?username=qafarazv&color=blue)
- 
-  Started Counting On 04/10/2023
-  
-</div> 
