@@ -1,8 +1,6 @@
 ### <div align="center"> Hi there 👋</div>  
 <!-- about me -->
-## About Me
-'''My name is Qafar Qəmbərzadə. I am 18 years old and live in Baku, Azerbaijan. I am a curious person and love to learn. I am working on improving my skills in web development. I'm a big fan of open source software. I share my research and projects on GitHub. I write code.
-My goal is to become Full Stack Web Development!!!'''
+## About Me <div>My name is Qafar Qəmbərzadə. I am 18 years old and live in Baku, Azerbaijan. I am a curious person and love to learn. I am working on improving my skills in web development. I'm a big fan of open source software. I share my research and projects on GitHub. I write code.My goal is to become Full Stack Web Development!!!</div>
 
 <!-- skills -->
 
