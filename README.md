@@ -1,5 +1,5 @@
 ### <div align="center"> Hi there 👋</div>  
-
+<hr></hr>
 <!-- about me -->
 
 ## About Me
