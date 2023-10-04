@@ -1,4 +1,4 @@
-### <div align="center"> Hi there 👋</div>  
+### <div align="center" font-size="50px"> Hi there 👋</div>  
 <br>
 <!-- about me -->
 
