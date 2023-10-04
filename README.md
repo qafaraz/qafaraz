@@ -1,3 +1,7 @@
+<header align="center">
+## Hi there 👋
+</header>
+
 <!-- about me -->
 
 ## About Me
@@ -7,6 +11,7 @@ My goal is to become Full Stack Web Development!!!
 <!-- skills -->
 
 <!-- Front-End Development Toolls -->
+
 ## Front-End Development Toolls
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass)\
 
