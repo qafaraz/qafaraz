@@ -1,6 +1,4 @@
-<header align="center">
- Hi there 👋
-</header>
+### <div align="center"> Hi there 👋</div>  
 
 <!-- about me -->
 
