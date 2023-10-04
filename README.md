@@ -25,6 +25,6 @@
   
   | ![](https://komarev.com/ghpvc/?username=qafarazv&color=blue) |
  
-  *Started Counting On 04/10/2023
+  Started Counting On 04/10/2023
   
 </div> 
