@@ -15,7 +15,7 @@
 
 <!-- Development Environment Tools -->
 ## Development Environment Tools
-![My Skills](https://skillicons.dev/icons?i=vscode,github,discord)
+![My Skills](https://skillicons.dev/icons?i=vscode,github)
 
 <!-- Design Tools -->
 ## Design Tools
