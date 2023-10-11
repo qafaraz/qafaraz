@@ -19,4 +19,4 @@
 
 <!-- Design Tools -->
 ## Design Tools
-![My Skills](https://skillicons.dev/icons?i=figma,ps)
+![My Skills](https://skillicons.dev/icons?i=ps,figma)
