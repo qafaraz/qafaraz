@@ -22,5 +22,5 @@
 ![My Skills](https://skillicons.dev/icons?i=ps,figma)
 
 ##
+<span> ![sCR](https://github.com/qafaraz/qafaraz/assets/135150451/ea0f248d-7dc5-43d6-ae12-169966e221db)</span>
 
-![sCR](https://github.com/qafaraz/qafaraz/assets/135150451/ea0f248d-7dc5-43d6-ae12-169966e221db)
