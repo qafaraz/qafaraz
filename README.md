@@ -24,10 +24,6 @@
 ## Design Tools
 ![My Skills](https://skillicons.dev/icons?i=ps,figma)
 
-##
-![bugs](https://github.com/qafaraz/qafaraz/assets/135150451/34b1eb35-ce17-4c11-acdb-27fe78c5952b)
-
-
 
 
 
