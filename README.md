@@ -25,7 +25,10 @@
 ![My Skills](https://skillicons.dev/icons?i=ps,figma)
 
 ##
-![1](https://github.com/qafaraz/qafaraz/assets/135150451/1b3f78ba-12d3-4695-8da0-ad26cf98f933)
+![2](https://tenor.com/tr/view/developer-gif-23414225)
+##
+![Code](https://github.com/qafaraz/qafaraz/assets/135150451/a6eebdf5-d5f7-4d46-93b2-3a3d31a67f11)
+
 
 
 
