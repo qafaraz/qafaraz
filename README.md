@@ -22,5 +22,5 @@
 ![My Skills](https://skillicons.dev/icons?i=ps,figma)
 
 ## Gif
-![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBuM3dkZGkzNDN2ZGhpZWx5MzV3enQ2aXp1NmI3d2w3dDFxenVkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+![gif](https://giphy.com/gifs/hrcloud-hire-hiring-new-employee-xTiTnl2gE4jRamfPnW https://tenor.com/tr/view/programmer-cycle-programmer-cycle-life-programmer-life-gif-18995470)
 
