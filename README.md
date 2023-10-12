@@ -21,9 +21,6 @@
 ## Design Tools
 ![My Skills](https://skillicons.dev/icons?i=ps,figma)
 
-## gif
-![Uploading sCR.gif…]()
+##
 
-  <iframe src="https://gifer.com/embed/M3us" width=480 height=270.084 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
-
-
+![sCR](https://github.com/qafaraz/qafaraz/assets/135150451/ea0f248d-7dc5-43d6-ae12-169966e221db)
