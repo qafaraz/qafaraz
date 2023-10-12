@@ -21,7 +21,7 @@
 ## Design Tools
 ![My Skills](https://skillicons.dev/icons?i=ps,figma)
 
-##
+## gif
 ![gif](https://giphy.com/gifs/hrcloud-hire-hiring-new-employee-xTiTnl2gE4jRamfPnW)
-![gif](https://tenor.com/tr/view/programmer-cycle-programmer-cycle-life-programmer-life-gif-18995470)
+
 
