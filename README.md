@@ -22,4 +22,4 @@
 ![My Skills](https://skillicons.dev/icons?i=ps,figma)
 
 ## Gif
-![gif] (https://giphy.com/clips/thefastsaga-fast-and-furious-saga-6-sP46ma2lid4Eml9Oma)
+![gif](https://giphy.com/clips/thefastsaga-fast-and-furious-saga-6-sP46ma2lid4Eml9Oma)
