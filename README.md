@@ -22,6 +22,8 @@
 ![My Skills](https://skillicons.dev/icons?i=ps,figma)
 
 ## gif
+<div>
 ![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3c2cTJyZ3VueWlpMmpjdmtheHJsY2Q3OHN1eDVqYWozZTB2NXN5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnl2gE4jRamfPnW/giphy.gif)
+</div>
 
 
