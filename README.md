@@ -20,7 +20,7 @@
 <!-- Design Tools -->
 ## Design Tools
 ![My Skills](https://skillicons.dev/icons?i=ps,figma)
-
-## Gif
-![gif](https://giphy.com/gifs/hrcloud-hire-hiring-new-employee-xTiTnl2gE4jRamfPnW https://tenor.com/tr/view/programmer-cycle-programmer-cycle-life-programmer-life-gif-18995470)
+#
+![gif](https://giphy.com/gifs/hrcloud-hire-hiring-new-employee-xTiTnl2gE4jRamfPnW)
+![gif](https://tenor.com/tr/view/programmer-cycle-programmer-cycle-life-programmer-life-gif-18995470)
 
