@@ -16,9 +16,13 @@
 <!--  Backend-End Development Toolls -->
 ## Backend-End Development Toolls
 
+<!-- Deployment Toolls -->
+## Deployment Toolls
+ ![My Skills](https://skillicons.dev/icons?i=netlify,vercel)
+ 
 <!-- Development Environment Tools -->
 ## Development Environment Tools
-![My Skills](https://skillicons.dev/icons?i=vscode,github,git)
+![My Skills](https://skillicons.dev/icons?i=vscode,git,gitlab,github)
 
 <!-- Design Tools -->
 ## Design Tools
