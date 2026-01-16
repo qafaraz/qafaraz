@@ -1,33 +1,38 @@
-## Hi there 👋
-![Hello](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWJ3eG9hZWtrMW5tMmlwYXQ4MHVicnY3bzZvajBndGVuMXlvZW5oNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEduIYMGPOYxkcKeA/giphy.gif)
+<p align="center">
+  <a href="https://github.com/qafaraz">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=25&duration=3500&color=2ECC71EF&center=true&vCenter=true&repeat=false&random=true&width=420&height=50&lines=Hi%2C+I'm+Qafar!+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+</p>
 
-
-<!-- about me -->
 ## About Me 
-```My name is Qafar Qəmbərzadə. I am 20 years old and live in Baku, Azerbaijan. I am a curious person and love to learn. I am working on improving my skills in web development. I'm a big fan of open source software. I share my research and projects on GitHub. I write code.My goal is to become Full Stack Web Development!!!``` 
+```My name is Qafar. I am 20 years old and live in Baku, Azerbaijan. I am a curious and motivated learner with a strong interest in web development. I am continuously improving my skills and exploring modern technologies. I am a big fan of open-source software and enjoy sharing my projects and research on GitHub. I love writing clean and efficient code.```
 
-<!-- skills -->
+## 🎨 Front-End Development Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,styledcomponents,bootstrap,tailwind,javascript,react,vite" />
+</p>
 
-<!-- Front-End Development Toolls -->
+## ⚙️ Back-End Development Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
-## Front-End Development Toolls
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,javascript)
+## ☁️ Deployment & Cloud Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=netlify,vercel,aws,cloudflare" />
+</p>
 
-<!--  Backend-End Development Toolls -->
-## Backend-End Development Toolls
+## 🛠️ Development Environment Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,gitlab,github,postman,codepen" />
+</p>
 
-<!-- Deployment Toolls -->
-## Deployment Toolls
- ![My Skills](https://skillicons.dev/icons?i=netlify,vercel)
- 
-<!-- Development Environment Tools -->
-## Development Environment Tools
-![My Skills](https://skillicons.dev/icons?i=vscode,git,gitlab,github)
+## 🎨 Design Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ps" />
+</p>
 
-<!-- Design Tools -->
-## Design Tools
-![My Skills](https://skillicons.dev/icons?i=ps,figma)
-
-
-
-
+## 💬 Communication Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=discord" />
+</p>
