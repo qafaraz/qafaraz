@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/qafaraz">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=25&duration=3500&color=2ECC71EF&center=true&vCenter=true&repeat=false&random=true&width=420&height=50&lines=Hi%2C+I'm+Qafar!+%F0%9F%91%8B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=25&duration=3500&color=2ECC71EF&center=true&vCenter=true&repeat=false&random=false&width=420&height=50&lines=Hi%2C+I'm+Qafar!+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 </p>
 
