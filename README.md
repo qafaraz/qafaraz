@@ -5,7 +5,7 @@
 </p>
 
 ## About Me 
-```My name is Qafar. I am 20 years old and live in Baku, Azerbaijan. I am a curious and motivated learner with a strong interest in web development. I am continuously improving my skills and exploring modern technologies. I am a big fan of open-source software and enjoy sharing my projects and research on GitHub. I love writing clean and efficient code.```
+```My name is Qafar Qəmbərzadə. I am 20 years old and live in Baku, Azerbaijan. I am a curious and motivated learner with a strong interest in web development. I am continuously improving my skills and exploring modern technologies. I am a big fan of open-source software and enjoy sharing my projects and research on GitHub. I love writing clean and efficient code.```
 
 ## 🎨 Front-End Development Tools
 <p align="left">
